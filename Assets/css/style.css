@@ -1,0 +1,10 @@
+#home{
+    background-image: url(/Assets/images/home-bg-2.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.beg{
+    color: darkblue;
+}
+
