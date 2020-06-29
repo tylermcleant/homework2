@@ -1,5 +1,5 @@
 #home{
-    background: url(../images/home-bg-2.jpg);
+    background-image: url(../images/home-bg-2.jpg);
     background-size: cover;
     height: 100vh;
 }
