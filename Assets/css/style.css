@@ -1,7 +1,10 @@
-header{
-    color: green;
+#home{
+    background: url(../images/home-bg-2.jpg);
+    background-size: cover;
+    height: 100vh;
 }
 
-.nav-link{
-    color:white;
+.beg{
+    color: darkblue;
 }
+
